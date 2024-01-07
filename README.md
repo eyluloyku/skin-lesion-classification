@@ -45,4 +45,4 @@ Weighted Soft Voting Accuracy: 0.738
 
 
 ## Future Work
-The study shows that while several approaches improve model performance, careful consideration must be given to class imbalances and the unique characteristics of each class to achieve a more uniform performance across the board. This not only points to the need of research in deep learning for skin lesion classification but also the requirement of collaboration with external entities that can collect and provide diverse and more comprehensive datasets.
+The study shows that while several approaches improve model performance, careful consideration must be given to class imbalances and the unique characteristics of each class to achieve a more uniform performance across the board. This not only points to the need for research in deep learning for skin lesion classification but also the requirement of collaboration with external entities that can collect and provide diverse and more comprehensive datasets.
